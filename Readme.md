@@ -33,6 +33,4 @@ or open Isaac Sim from Omniverse Launcher.
 - Click ▶ Play to start the simulation.
 
 
-<div style="text-align: center">
-    <img src='robot_simulation.png' width='800'/>
-</div>
+<div align="center"> <img src="images/robot_simulation.png" width="800"/> </div>
