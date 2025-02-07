@@ -4,6 +4,8 @@ This repository contains a **robot simulation** built using **NVIDIA Isaac Sim**
 - A **rotating 2D LiDAR** for mapping.
 - A **front-facing camera** for visual processing.
 
+![Robot Simulation](robot_simulation.png)
+
 **How to run this repository**
 Make sure **Isaac Sim** is installed. If you haven’t installed it yet:
 - Install **Omniverse** from: [https://developer.nvidia.com/nvidia-omniverse-platform](https://developer.nvidia.com/nvidia-omniverse-platform).
@@ -32,4 +34,4 @@ or open Isaac Sim from Omniverse Launcher.
 4. Press Play
 - Click ▶ Play to start the simulation.
 
-![Robot Simulation](robot_simulation.png)
+
