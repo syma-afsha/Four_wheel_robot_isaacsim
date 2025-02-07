@@ -20,16 +20,15 @@ Running the Simulation in Isaac Sim:
 or open Isaac Sim from Omniverse Launcher.
 
 2. Open the Robot Scene:
-Click File > Open.
-Navigate to scenes/ inside the repository.
-Select my_robot.usd and click Open.
+- Click File > Open.
+- Select my_robot.usd and click Open.
 
 3. Enable Physics:
-Check if a Physics Scene exists in the Stage Tree.
-If not, add one:
-Right-click Stage  ▶  Create > Physics  ▶ Physics Scene.
+- Check if a Physics Scene exists in the Stage Tree.
+- If not, add one:
+    Right-click Stage  ▶  Create > Physics  ▶ Physics Scene.
 - Make sure Gravity is enabled.
 
 4. Press Play
-Click ▶ Play to start the simulation.
+- Click ▶ Play to start the simulation.
 
