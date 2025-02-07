@@ -32,4 +32,4 @@ or open Isaac Sim from Omniverse Launcher.
 4. Press Play
 - Click ▶ Play to start the simulation.
 
-![Robot Simulation Running](robot_simulation.png)
+[Robot Simulation Running](robot_simulation.png)
